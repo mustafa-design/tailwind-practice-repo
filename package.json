@@ -1,0 +1,14 @@
+{
+  "name": "tailwind-practice",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwind build ./src/style.css -o ./dist/style.css --watch"
+  },
+  "author": "Mustafa",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.8"
+  }
+}
